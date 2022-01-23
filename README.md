@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @JollyKrampus
 - 👀 I’m interested in saving money by creating cheap knock offs of paid services
 - 🌱 I’m currently learning how to control robotic hardware using .NET
+- I'm using GitHub for my public projects, and I have an array of private projects on Azure DevOps.
 
 <!---
 JollyKrampus/JollyKrampus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
